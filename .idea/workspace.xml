@@ -17,6 +17,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1QFVzjH7sO3sDD8En0xN5vZNxsG" />
   <component name="PropertiesComponent">
@@ -57,7 +58,7 @@
       <workItem from="1568505708172" duration="600000" />
       <workItem from="1568735563851" duration="72000" />
       <workItem from="1568736092776" duration="280000" />
-      <workItem from="1568738013868" duration="241000" />
+      <workItem from="1568738013868" duration="2148000" />
     </task>
     <servers />
   </component>
